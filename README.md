@@ -35,14 +35,14 @@
 <br />
 <hr />
 
-## My Repos
+## Some of my work
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=theshubhagrwl&repo=MyMovieTime)](https://github.com/theshubhagrwl/MyMovieTime)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=theshubhagrwl&repo=budget-tracker-frontend)](https://github.com/theshubhagrwl/budget-tracker-frontend)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=theshubhagrwl&repo=ValueMyMoney)](https://github.com/theshubhagrwl/ValueMyMoney)
+<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=theshubhagrwl&repo=ValueMyMoney)](https://github.com/theshubhagrwl/ValueMyMoney)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=theshubhagrwl&repo=react-wall-app)](https://github.com/theshubhagrwl/react-wall-app)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=theshubhagrwl&repo=minesweeper-pygame)](https://github.com/theshubhagrwl/minesweeper-pygame)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=theshubhagrwl&repo=pygame-tic-tac-toe)](https://github.com/theshubhagrwl/pygame-tic-tac-toe)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=theshubhagrwl&repo=pygame-tic-tac-toe)](https://github.com/theshubhagrwl/pygame-tic-tac-toe) -->
 
 
 ## Connect with **me**
