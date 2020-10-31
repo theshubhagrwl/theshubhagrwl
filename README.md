@@ -66,7 +66,7 @@
 
 ## Stats
 <a href="#stats">
-  <img align="center" alt="Shubh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theshubhagrwl&&hide=jupyter%20notebook&langs_count=6" />
+  <img align="center" alt="Shubh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theshubhagrwl&&hide=jupyter%20notebook,CSS&langs_count=6" />
 </a>
 
 [twitter]: https://twitter.com/theshubhagrwl
