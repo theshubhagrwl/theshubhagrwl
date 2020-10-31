@@ -6,8 +6,12 @@
 - 👯 I’m looking to collaborate on  Open Source Projects 💖
 - 🔭 I'm currently a core team member of DSC ABESIT.
 - 🌱 I love to work with ReactJs and Django.
-- 🤔 I'am learning DSA.
+- ✍ I also write Blogs, generally tech related.
+- 🤔 I'm learning DSA.
 - 📫 How to reach me: [Email me](mailto:shubhagrawal4457@gmail.com)
+
+
+![Shubh's github stats](https://github-readme-stats.vercel.app/api?username=theshubhagrwl&show_icons=true&count_private=true)
 
 ## Languages and Libraries
 
@@ -45,6 +49,11 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=theshubhagrwl&repo=pygame-tic-tac-toe)](https://github.com/theshubhagrwl/pygame-tic-tac-toe) -->
 
 
+## My Blogs
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@theshubhagrwl/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@theshubhagrwl/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@theshubhagrwl/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@theshubhagrwl/1" alt="Recent Article 0">
+
+
 ## Connect with **me**
 
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/theshubhagrwl)
@@ -53,7 +62,7 @@
 <br />
 <hr />
 
-![Shubh's github stats](https://github-readme-stats.vercel.app/api?username=theshubhagrwl&show_icons=true&count_private=true)
+
 
 ## Stats
 <a href="#stats">
