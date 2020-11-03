@@ -11,7 +11,7 @@
 - 📫 How to reach me: [Email me](mailto:shubhagrawal4457@gmail.com)
 
 
-![Shubh's github stats](https://github-readme-stats.vercel.app/api?username=theshubhagrwl&show_icons=true&count_private=true)
+![Shubh's github stats](https://github-readme-stats-pi.vercel.app/api?username=theshubhagrwl&show_icons=true&count_private=true)
 
 ## Languages and Libraries
 
