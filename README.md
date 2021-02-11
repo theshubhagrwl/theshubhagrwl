@@ -65,7 +65,8 @@
 </a> -->
 
 <hr>
-
+<a target="_blank" href="https://theshubhagrwl.hashnode.dev/"> Visit My Blog </a> 
+<hr>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@theshubhagrwl/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@theshubhagrwl/0" alt="Recent Article 0"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@theshubhagrwl/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@theshubhagrwl/1" alt="Recent Article 0">
 
