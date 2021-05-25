@@ -3,11 +3,8 @@
 
 ## About
 - 🏄‍ Full Stack Developer.
-- 👯 I’m looking to collaborate on  Open Source Projects 💖
-- 🔭 I'm currently a core team member of DSC ABESIT.
-- 🌱 I love to work with ReactJs and Django.
+- 🌱 I love to work with React.
 - ✍ I also write Blogs, generally tech related.
-- 🤔 I'm learning DSA.
 - 📫 How to reach me: [Email me](mailto:shubhagrawal4457@gmail.com)
 
 ## Connect with **me**
