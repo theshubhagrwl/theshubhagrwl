@@ -46,21 +46,6 @@
 <br />
 <hr />
 
-<!-- ## Some of my work
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=theshubhagrwl&repo=MyMovieTime)](https://github.com/theshubhagrwl/MyMovieTime)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=theshubhagrwl&repo=budget-tracker-frontend)](https://github.com/theshubhagrwl/budget-tracker-frontend) -->
-<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=theshubhagrwl&repo=ValueMyMoney)](https://github.com/theshubhagrwl/ValueMyMoney)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=theshubhagrwl&repo=react-wall-app)](https://github.com/theshubhagrwl/react-wall-app)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=theshubhagrwl&repo=minesweeper-pygame)](https://github.com/theshubhagrwl/minesweeper-pygame)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=theshubhagrwl&repo=pygame-tic-tac-toe)](https://github.com/theshubhagrwl/pygame-tic-tac-toe) -->
-
-![Shubh's github stats](https://github-readme-stats-pi.vercel.app/api?username=theshubhagrwl&show_icons=true&count_private=true)
-
-<!-- <a href="#stats">
-  <img align="center" alt="Shubh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theshubhagrwl&&hide=jupyter%20notebook,CSS&langs_count=6" />
-</a> -->
-
 <hr>
 <a target="_blank" href="https://theshubhagrwl.hashnode.dev/"> Visit My Blog </a> 
 <hr>
