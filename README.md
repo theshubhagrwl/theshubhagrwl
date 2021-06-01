@@ -14,8 +14,6 @@
 [<img height="30" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:shubhagrawal4457@gmail.com)
 [<img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/theshubhagrwl/)
 [<img height="30" src="https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/theshubhagrwl)
-[<img height="30" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white">](https://dev.to/theshubhagrwl) 
-[<img height="30" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white">](https://medium.com/@theshubhagrwl) 
 <br />
 <hr />
 
